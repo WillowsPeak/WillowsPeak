@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Abertay University 2026 Graduate
-BSc(Hons) Ethical Hacking First Class
-
+Abertay University 2026 Graduate | BSc(Hons) Ethical Hacking First Class
 <!--
 **WillowsPeak/WillowsPeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
